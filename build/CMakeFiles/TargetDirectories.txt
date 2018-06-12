@@ -1,0 +1,3 @@
+/home/zn/match/build/CMakeFiles/rebuild_cache.dir
+/home/zn/match/build/CMakeFiles/edit_cache.dir
+/home/zn/match/build/CMakeFiles/main.dir
